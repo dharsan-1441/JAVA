@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ExpenseApplication<expence>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dharsan.expence.ExpenseApplication",
+            "projectName": "expence",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
